@@ -1,0 +1,8 @@
+.build*
+*.tar.gz
+*.swp
+FAW-uRoles-*
+FAW-Form-*
+FAW-formulas-*
+FAW-Autogen-*
+FAW-jqtree-*
